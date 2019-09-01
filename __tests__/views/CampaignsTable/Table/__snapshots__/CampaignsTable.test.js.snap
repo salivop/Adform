@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CampaignsTable should render correctly 1`] = `
+<Fragment>
+  <WithStyles(ForwardRef(Table))>
+    <WithStyles(ForwardRef(TableHead))>
+      <WithStyles(ForwardRef(TableRow))>
+        <WithStyles(ForwardRef(TableCell))
+          key="id"
+          padding="default"
+          sortDirection="asc"
+        >
+          <WithStyles(ForwardRef(TableSortLabel))
+            active={true}
+            direction="asc"
+            onClick={[Function]}
+          >
+            Name
+          </WithStyles(ForwardRef(TableSortLabel))>
+        </WithStyles(ForwardRef(TableCell))>
+        <WithStyles(ForwardRef(TableCell))
+          key="name"
+          padding="default"
+          sortDirection={false}
+        >
+          <WithStyles(ForwardRef(TableSortLabel))
+            active={false}
+            direction="asc"
+            onClick={[Function]}
+          >
+            User Name
+          </WithStyles(ForwardRef(TableSortLabel))>
+        </WithStyles(ForwardRef(TableCell))>
+        <WithStyles(ForwardRef(TableCell))
+          key="startDate"
+          padding="default"
+          sortDirection={false}
+        >
+          <WithStyles(ForwardRef(TableSortLabel))
+            active={false}
+            direction="asc"
+            onClick={[Function]}
+          >
+            Start Date
+          </WithStyles(ForwardRef(TableSortLabel))>
+        </WithStyles(ForwardRef(TableCell))>
+        <WithStyles(ForwardRef(TableCell))
+          key="endDate"
+          padding="default"
+          sortDirection={false}
+        >
+          <WithStyles(ForwardRef(TableSortLabel))
+            active={false}
+            direction="asc"
+            onClick={[Function]}
+          >
+            End Date
+          </WithStyles(ForwardRef(TableSortLabel))>
+        </WithStyles(ForwardRef(TableCell))>
+        <WithStyles(ForwardRef(TableCell))
+          key="active"
+          padding="default"
+          sortDirection={false}
+        >
+          <WithStyles(ForwardRef(TableSortLabel))
+            active={false}
+            direction="asc"
+            onClick={[Function]}
+          >
+            Active
+          </WithStyles(ForwardRef(TableSortLabel))>
+        </WithStyles(ForwardRef(TableCell))>
+        <WithStyles(ForwardRef(TableCell))
+          key="Budget"
+          padding="default"
+          sortDirection={false}
+        >
+          <WithStyles(ForwardRef(TableSortLabel))
+            active={false}
+            direction="asc"
+            onClick={[Function]}
+          >
+            Budget
+          </WithStyles(ForwardRef(TableSortLabel))>
+        </WithStyles(ForwardRef(TableCell))>
+      </WithStyles(ForwardRef(TableRow))>
+    </WithStyles(ForwardRef(TableHead))>
+    <WithStyles(ForwardRef(TableBody)) />
+  </WithStyles(ForwardRef(Table))>
+</Fragment>
+`;

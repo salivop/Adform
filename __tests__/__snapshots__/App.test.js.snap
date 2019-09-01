@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CampaignsTableContainer should render correctly 1`] = `
+<Fragment>
+  <CampaignsTableContainer />
+</Fragment>
+`;

@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "allowSyntheticDefaultImports": false,
+      "baseUrl": "src",
+      "paths": {
+        "view/*": ["src/view/*"],
+        "components/*": ["src/components/*"],
+        "src/*": ["src/*"],
+        "tests/*": ["__tests__/*"]
+      }
+    },
+    "exclude": ["node_modules", "dist"]
+  }
+  

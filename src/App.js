@@ -1,11 +1,11 @@
 import React from "react";
 
-import BtcFormContainer from "./views/btcForm/BtcFormContainer";
+import CampaignsTableContainer from "views/CampaignsTable/CampaignsTableContainer";
 
-function App() {
+const App = () => {
   return (
     <React.Fragment>
-      <BtcFormContainer />
+      <CampaignsTableContainer />
     </React.Fragment>
   );
 }

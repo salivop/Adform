@@ -3,6 +3,6 @@ import Paper from "@material-ui/core/Paper";
 
 import { styles } from "./PaperWrapper.styles";
 
-const PaperWrapper = ({ form }) => <Paper style={styles.paper}>{form}</Paper>;
+const PaperWrapper = ({ child }) => <Paper style={styles.paper}>{child}</Paper>;
 
 export default PaperWrapper;

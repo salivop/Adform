@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CampaignsTableContainer should render correctly 1`] = `
+<PaperWrapper
+  child={
+    <React.Fragment>
+      <CampaignsTable
+        tableData={
+          Array [
+            Object {
+              "Budget": 88377,
+              "active": false,
+              "endDate": "3/9/2018",
+              "id": 1,
+              "name": "Divavu",
+              "startDate": "9/19/2017",
+              "userId": 3,
+            },
+            Object {
+              "Budget": 608715,
+              "active": true,
+              "endDate": "2/21/2020",
+              "id": 2,
+              "name": "Jaxspan",
+              "startDate": "11/21/2017",
+              "userId": 6,
+            },
+            Object {
+              "Budget": 239507,
+              "active": false,
+              "endDate": "6/20/2017",
+              "id": 3,
+              "name": "Miboo",
+              "startDate": "11/1/2017",
+              "userId": 7,
+            },
+            Object {
+              "Budget": 179838,
+              "active": false,
+              "endDate": "11/30/2017",
+              "id": 4,
+              "name": "Trilith",
+              "startDate": "8/25/2017",
+              "userId": 1,
+            },
+            Object {
+              "Budget": 837850,
+              "active": false,
+              "endDate": "3/10/2018",
+              "id": 5,
+              "name": "Layo",
+              "startDate": "11/28/2017",
+              "userId": 9,
+            },
+            Object {
+              "Budget": 858131,
+              "active": true,
+              "endDate": "6/23/2020",
+              "id": 6,
+              "name": "Photojam",
+              "startDate": "7/25/2017",
+              "userId": 3,
+            },
+            Object {
+              "Budget": 109078,
+              "active": false,
+              "endDate": "1/15/2018",
+              "id": 7,
+              "name": "Blogtag",
+              "startDate": "6/27/2017",
+              "userId": 2,
+            },
+            Object {
+              "Budget": 272552,
+              "active": false,
+              "endDate": "1/25/2018",
+              "id": 8,
+              "name": "Rhyzio",
+              "startDate": "10/13/2017",
+              "userId": 4,
+            },
+            Object {
+              "Budget": 301919,
+              "active": false,
+              "endDate": "11/10/2017",
+              "id": 9,
+              "name": "Zoomcast",
+              "startDate": "9/6/2017",
+              "userId": 8,
+            },
+            Object {
+              "Budget": 505602,
+              "active": false,
+              "endDate": "10/2/2017",
+              "id": 10,
+              "name": "Realbridge",
+              "startDate": "3/5/2018",
+              "userId": 5,
+            },
+          ]
+        }
+      />
+    </React.Fragment>
+  }
+/>
+`;

@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader should render correctly 1`] = `
+<Fragment>
+  <div
+    align="center"
+  >
+    <WithStyles(ForwardRef(CircularProgress)) />
+  </div>
+  <WithStyles(ForwardRef(Typography))
+    align="center"
+  >
+    Please wait...
+  </WithStyles(ForwardRef(Typography))>
+</Fragment>
+`;

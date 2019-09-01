@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyComponent should render correctly 1`] = `
+<WithStyles(ForwardRef(Paper))
+  style={
+    Object {
+      "left": "50%",
+      "padding": "30px",
+      "position": "absolute",
+      "top": "50%",
+      "transform": "translate(-50%, -50%)",
+    }
+  }
+/>
+`;
+
+exports[`PaperWrapper should render correctly 1`] = `
+<WithStyles(ForwardRef(Paper))
+  style={
+    Object {
+      "left": "50%",
+      "padding": "30px",
+      "position": "absolute",
+      "top": "50%",
+      "transform": "translate(-50%, -50%)",
+    }
+  }
+/>
+`;
